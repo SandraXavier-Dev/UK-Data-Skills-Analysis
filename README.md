@@ -5,6 +5,7 @@ Project Analyzes job listings in the UK to identify top in-demand data skills an
 -**Objective:** Understand which data skills are most sought-after in the UK job market and analyze salary estimation types.
 
 -**Analysis Includes:** 
+
       - Counting and visualizing the Top 10 in demand skills in the UK.
       
       - Visualizing salary estimation types using counts.
